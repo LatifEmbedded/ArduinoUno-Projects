@@ -1,3 +1,9 @@
+/*  
+    CREATOR : DALI FETHI ABDELLATIF
+    DATE : 15/05/2024
+    PLATFORM : ARDUINO UNO
+    SIMULATION : Tinkercad
+*/
 int array[] = {2, 4, 7, 8, 12, 13}, max = 6, time = 200, i = 0, j = max-1;
 void setup(void)
 {
