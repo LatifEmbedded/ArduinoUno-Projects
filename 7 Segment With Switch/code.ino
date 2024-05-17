@@ -5,8 +5,7 @@
   SIMULATION : TINKERCARD
 */
 /*
-  USING INTERRUPT ON PIN 2 WE CAN EITHER START DISPLAYING NUMBERS FROM 0 TO 9 
-  OR WE STOP DISPLAYING NUMBERS.
+    Launch showing numbers using a switch connected to pin 2 using interrupt
 */
 int array[] = {4, 5, 6, 7}, max = 4, value = 1, i = 0, time = 500;
 bool state = 0;
