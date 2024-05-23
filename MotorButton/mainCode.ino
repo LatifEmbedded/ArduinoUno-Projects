@@ -1,3 +1,7 @@
+/*
+  SEND HIGH TO MOTOR WHEN THE BUTTON IS PRESSED 
+  ELSE SEND LOW TO MOTOR
+*/
 volatile bool state = false;
 
 void function(void)
