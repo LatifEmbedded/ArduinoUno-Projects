@@ -12,4 +12,4 @@ Several projects were implemented using the Arduino Uno microcontroller.
 - BCD to 7-segment decoder
 - Buttons
 ## Note : 
-All the projects were tested using the Tinkercad simulator and real hardware. If you encounter any bugs or problems, do not hesitate to add your touch.
+if you encounter any bugs or problems, do not hesitate to add your touch.
